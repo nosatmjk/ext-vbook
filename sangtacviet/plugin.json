@@ -1,13 +1,15 @@
 {
     "metadata": {
         "name": "Sáng Tác Việt",
-        "author": "vBook",
-        "version": 8,
+        "author": "nosatmjk",
+        "version": 10,
         "source": "https://sangtacviet.pro",
-        "regexp": "(www.)?sangtacviet.(pro|vip|com)/truyen/([a-zA-Z0-9])+/\\d+/\\d+/?$",
-        "description": "Hỗ trợ đọc truyện ổn định trên SangTacViet",
+        "regexp": "https?://sangtacviet\\.(pro|vip|com|app)/truyen/(qidian|uukanshu|chiruax|69shu|noel)/\\d+/\\d+/?",
+        "description": "Bản cập nhật tối ưu 2026 cho vBook",
         "locale": "vi_VN",
-        "type": "novel"
+        "language": "javascript",
+        "type": "novel",
+        "encrypt": true
     },
     "script": {
         "home": "home.js",
