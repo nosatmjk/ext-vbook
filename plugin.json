@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "author": "vBook",
+    "description": "Danh sách extension cho ứng dụng vBook"
+  },
+  "data": [
+    {
+      "name": "Sáng Tác Việt",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/nosatmjk/ext-vbook/master/sangtacviet/plugin.zip",
+      "version": 8,
+      "source": "https://sangtacviet.pro",
+      "icon": "https://sangtacviet.pro/favicon.ico",
+      "description": "Đọc truyện trên trang SangTacViet (STV) - Hỗ trợ Qidian, Zongheng...",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Bạch Ngọc Sách",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/plugin.zip",
+      "version": 13,
+      "source": "https://bnsach.com/reader",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/icon.png",
+      "description": "Đọc truyện trên trang bnsach.com/reader",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Truyện Full",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/truyenfull/plugin.zip",
+      "version": 10,
+      "source": "https://truyenfull.vision",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/truyenfull/icon.png",
+      "description": "Đọc truyện trên trang Truyện Full",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Mê Truyện Chữ",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/metruyenchu/plugin.zip",
+      "version": 44,
+      "source": "https://metruyencv.biz",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/metruyenchu/icon.png",
+      "description": "Đọc truyện trên trang Mê Truyện Chữ",
+      "type": "novel",
+      "locale": "vi_VN"
+    }
+  ]
+}

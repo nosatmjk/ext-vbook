@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "name": "Sáng Tác Việt",
+        "author": "vBook",
+        "version": 8,
+        "source": "https://sangtacviet.pro",
+        "regexp": "(www.)?sangtacviet.(pro|vip|com)/truyen/([a-zA-Z0-9])+/\\d+/\\d+/?$",
+        "description": "Hỗ trợ đọc truyện ổn định trên SangTacViet",
+        "locale": "vi_VN",
+        "type": "novel"
+    },
+    "script": {
+        "home": "home.js",
+        "genre": "genre.js",
+        "search": "search.js",
+        "detail": "detail.js",
+        "toc": "toc.js",
+        "chap": "chap.js"
+    }
+}
